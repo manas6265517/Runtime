@@ -12,8 +12,6 @@ A modern, responsive e-commerce frontend built to deliver a smooth online shoppi
 
 [**View Repository**](https://github.com/manas6265517/Runtime-E-commerce)
 
-## 🌐 Live Demo
-
 **[View Runtime E-Commerce Website](https://manas6265517.github.io/Runtime/)**
 
 </div>
